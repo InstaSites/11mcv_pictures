@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://11mcv.photos/sitemap.xml
